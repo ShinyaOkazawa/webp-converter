@@ -1,4 +1,3 @@
-const fs = require('fs-extra');
 const glob = require('glob');
 const webp = require('webp-converter');
 const SRC = 'src';
